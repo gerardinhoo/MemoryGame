@@ -9,7 +9,5 @@ Each turn:
 3. If the cards match, both card stay flipped over.
 4. if the cards do not match, both cards are flipped face down.
 
-   
 The game ends once all cards have been correctly matched.
-
-Source: "www.udacity.com"
+This project is part of the Front End Development NANODEGREE on https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001
