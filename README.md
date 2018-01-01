@@ -11,6 +11,11 @@ Each turn:
 
 This project is part of the Front End Development Nanodegree on https://www.udacity.com/course/front-end-web-developer-nanodegree--nd00
 
+## How to run the program:
+* Download or clone the project
+* Open the index.html file to be able to view and play the game.
+
+
 
 
 
